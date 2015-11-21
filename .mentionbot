@@ -1,4 +1,4 @@
 {
-  userBlackList: [],
-  requiredOrgs: []
+  "userBlackList": [],
+  "requiredOrgs": []
 }
