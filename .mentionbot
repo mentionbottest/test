@@ -1,4 +1,4 @@
 {
-  "userBlacklist": ["mentionbottest"],
-  "requiredOrgs": []
+  "userBlacklist": [],
+  "requiredOrgs": ["facebook"]
 }
